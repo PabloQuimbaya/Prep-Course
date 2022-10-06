@@ -76,7 +76,7 @@ Luego elegí la visibilidad del proyecto como público (para tener repos privado
 
 Por último haz clic en **Crear repositorio**.
 
-Listo ya tenes tu propio repo. Ahora vas a poder clonarlo con las intrucciones de más abajo.
+Listo ya tenes tu propio repo. Ahora vas a poder clonarlo con las intrucciones de más abajo
 
 ### Clonar
 
