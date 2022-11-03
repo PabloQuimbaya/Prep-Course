@@ -1,0 +1,5 @@
+textoDos
+for : es como un juego de gusanos, donde tu puedes establecer su nombre, puedes poner hasta cuando quieres que crezca, y el siempre crecera de acuerdo a tus condiciones.
+&& : recuerdas esas evaluaciones de opciones de tu escuela? a,b,c; pues imagina que 'a' tiene otros dos hijos y recuerda que si uno de ellos dos es falsa entonces a no puede ser verdadero.
+|| : esta es todo lo contrario a lo anterior, si uno de los hijos de 'a' es verdadero entonces a puede ser verdadero sin importar que tenga un hijo falso, pero olvida el ejemplo de tu escuela, una evaluacion asi no tendria sentido.
+! : este amiguito aqui esta llevando la contraria a lo que se le establece despues, tambien nos respondera de forma dual, osea verdadero o falso.

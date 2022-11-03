@@ -1,6 +1,6 @@
 preguntas
 1. Variables: me has visto jugar con papa en el cuaderno, si pues con lapiz dibujamos un cuadro con nueve cuadritos mas pequeños cierto?, cada uno de esos cuadros son espacios donde guardamos algo, la X y O que ponemos serian su contenido.
 2. Strings: recuerdas el rosalio de la abuela, cada una de esas pepitas se le llaman caracteres, y como ves hay un conjunto de ellos, pero ten cuidado, los espacios que hay entra cada pepita tambien puede ser un caracter.
-3. Functions: son como los pequeños cuadros (espacios) del juego del punto uno, solo que puedo reutilizarlo y evitar repetir y aburrir a papa, sus argumentos son su nombre y se puede decir que cuando no se le da un valor no te responden, solo se llamaran a ellos INDEFINIDO.
+3. Functions: son como los pequeños cuadros (espacios) del juego del punto uno, solo que puedo reutilizarlo y evitar repetir y aburrir a papa, sus argumentos son su categoria y se puede decir que cuando no se le da un valor no te responden, solo se llamaran a ellos INDEFINIDO.
 4. IF:Alguna vez papá te atrapo rompiendo un jarron, el establece que has sido tu, tu dices que no pero el si, entonces por logica alguna de las dos opciones es la indicada.
 5. True- False: las opciones pueden ser si lo rompiste, seria verdadero, si no lo rompiste, falso.
